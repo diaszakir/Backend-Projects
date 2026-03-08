@@ -8,7 +8,8 @@ Each project = a separate repository or folder.
 ## 📦 Level 1 — Simple API Projects
 
 - [x] [Todo API](https://github.com/diaszakir/todoapp-golang-gin) 
-- [ ] URL Shortener API
+- [x] [URL Shortener API](https://github.com/diaszakir/URL-Shortener-API-Go)
+- [x] [Base62](https://github.com/diaszakir/base62-go)
 - [ ] Pastebin API
 - [ ] Bookmark Manager API
 - [ ] Notes API with Search
@@ -100,4 +101,4 @@ Stack:
 
 ## 📈 Progress
 
-1 / 52 projects completed
+3 / 53 projects completed
