@@ -10,7 +10,7 @@ Each project = a separate repository or folder.
 - [x] [Todo API](https://github.com/diaszakir/todoapp-golang-gin) 
 - [x] [URL Shortener API](https://github.com/diaszakir/URL-Shortener-API-Go)
 - [x] [Base62](https://github.com/diaszakir/base62-go)
-- [ ] Pastebin API
+- [x] [Pastebin API](https://github.com/diaszakir/Pastebin-API)
 - [ ] Bookmark Manager API
 - [ ] Notes API with Search
 - [ ] Expense Tracker API
