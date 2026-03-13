@@ -1,6 +1,6 @@
-# Go Backend Practice Projects
+# Go/Python Backend Practice Projects
 
-My way of developing the Go backend is through projects.
+My way of developing the Go and Python backend is through projects.
 Each project = a separate repository or folder.
 
 ---
